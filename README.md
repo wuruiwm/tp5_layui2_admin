@@ -1,2 +1,1 @@
-# tp5_layui2_admin
-tp5加layui2后台管理框架
+tp5 + layui后台管理框架
